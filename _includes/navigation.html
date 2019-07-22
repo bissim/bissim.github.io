@@ -1,0 +1,9 @@
+<nav>
+  {% for item in site.data.navigation %}
+  <a href="{{ item.link }}" {% if page.url == item.link %}style="font-weight: bold;"{% endif %}>
+    {{ item.name }}
+  </a>
+  <span>&nbsp;|&nbsp;</span>
+  {% endfor %}
+  <a href="http://www.isislab.it/author/simbis/">My ISISLab page</a>
+</nav>
