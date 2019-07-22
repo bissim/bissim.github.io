@@ -29,6 +29,7 @@ show_downloads: false
 markdown: kramdown
 theme: jekyll-theme-modernist
 plugins:
+  - jekyll-avatar
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
