@@ -2,5 +2,7 @@
   link: /
 - name: About me
   link: /about/
+- name: Projects
+  link: /projects/
 - name: My ISISLab page
   link: http://www.isislab.it/author/simbis/
