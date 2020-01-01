@@ -31,13 +31,22 @@ theme: jekyll-theme-modernist
 plugins:
   - jekyll-avatar
   - jekyll-feed
+  - jekyll-font-awesome-sass
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-watch
 
 # website settings
 collections:
   authors:
     output: true
+
+sass:
+  sass_dir: _sass
+  style: compact
+
+font-awesome:
+  assets: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
