@@ -31,7 +31,7 @@ theme: jekyll-theme-modernist
 plugins:
   - jekyll-avatar
   - jekyll-feed
-  - jekyll-font-awesome-sass
+#  - jekyll-font-awesome-sass
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-watch
