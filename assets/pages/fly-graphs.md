@@ -10,6 +10,8 @@ repo_id: bissim/fly-graph
 
 **{{ page.title }}** project purpose is to introduce the _graph_ ADT into the FLY language (a DSL language with multi-cloud support ideated by [Spagnuolo Carmine PhD](https://spagnuolocarmine.github.io/)).
 
+[FLY Graph API specification](./../files/fly_graph_api.pdf)
+
 Since FLY compiles over Java, Python and JavaScript (Node.js), **{{ page.title }}** consists of three adapters over three different libraries:
 
 - a Java adapter over the [**JGraphT**](https://jgrapht.org) library;
